@@ -11,7 +11,7 @@ title: "Manas Singh"
 title_separator: "-"
 name: &name "Manas Singh"
 description: &description "Manas Singh, Software Engineer"
-url: https://manassingh.com
+url: "https://manassingh.com"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "manassingh2611/manassingh2611.github.io"
 teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -57,7 +57,7 @@ yandex_site_verification:
 
 # Social Sharing
 twitter:
-  username: &twitter
+  username: manassingh2611 
 facebook:
   username:
   app_id:
@@ -74,14 +74,14 @@ social:
 analytics:
   provider: "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id: "G-R7073LVQSM"
+    gtag: "G-R7073LVQSM"
 
 # Site Author
 author:
   name: "Manas Singh"
   avatar: "profile.png"
   bio: "Software Engineer"
-  location: "India"
+  location:
   employer:
   pubmed: # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar: # "http://yourfullgooglescholarurl.com"
@@ -92,7 +92,7 @@ author:
   codepen:
   dribbble:
   flickr:
-  facebook: "manassingh27"
+  facebook:
   foursquare:
   github: "manassingh2611"
   google_plus:
@@ -104,14 +104,14 @@ author:
   orcid: #"http://orcid.org/yourorcidurl"
   pinterest:
   soundcloud:
-  stackoverflow: "https://stackoverflow.com/users/9051139/manas-singh"
+  stackoverflow:
   steam:
   tumblr:
   twitter: "manassingh2611"
   vine:
   weibo:
   xing:
-  youtube: "https://www.youtube.com/@manas_singh"
+  youtube:
   wikipedia:
 
 # Reading Files
